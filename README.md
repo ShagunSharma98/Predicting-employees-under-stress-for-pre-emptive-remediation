@@ -5,7 +5,7 @@ The algorithms used in this project includes:
 1. Logistic Regression
 2. Decision Tree 
 3. Support Vector Machines
-4. k- nearest neighbours
+4. k- nearest neighbors
 5. Random forest 
 
 Out of these: Logistic Regression, Support Vector Machines and Random Forest performs the best and therefore have been optimized further using Grid Search to fine tune hyperparamters. 
