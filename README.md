@@ -8,4 +8,7 @@ The algorithms used in this project includes:
 4. k- nearest neighbors
 5. Random forest 
 
-Out of these: Logistic Regression, Support Vector Machines and Random Forest performs the best and therefore have been optimized further using Grid Search to fine tune hyperparamters. 
+Out of these: Logistic Regression, Support Vector Machines and Random Forest performs the best and therefore have been optimized further using 'Grid Search' to fine tune hyperparamters. 
+
+
+After the optimization of parameters, 'Feature Selection (Recursive)' is used to select the most suitable features from the data and finalize the predictions of the project.
